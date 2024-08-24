@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Madhavan Prasanna's First CS193 Homework
+## My Favorite Things About CS193
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Exploring new programming concepts and tools
+- Building and customizing a personal website with GitHub Pages
+- Gaining hands-on experience with real-world coding practices
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+Hi, my name is Madhavan Prasanna, and I'm a freshman at Purdue University. I'm currently majoring in Data Science!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## My Projects
+- **Project 1:** My first project is a simple research project, focused on utilizing cointegrating tests to see if there exists causality between macroeconomic indicators such as inflation/interest rates with the S&P 500. I utilized 2 tests, Granger Causality test, and Principle Component Analysis which was combined with Johannson Cointegration Test.
+- **Project 2:** My second project is also a simple research project, this was a more "fun" project where I wanted to see if Bitcoin has price cyclicality as preached by internet crypto gurus. For this test, I utilized a KNN neural network combined with Principle Component Analysis to reduce dimensionality. I also experimented with ARIMA (Auto-Regressive Integrated Moving Average) as well as Prophet.
